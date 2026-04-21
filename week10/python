@@ -1,0 +1,16 @@
+Loaded 12 images from ./data/Set12/
+
+==================================================
+[1/8] Method: n2n | Image: 01.png | ¦Ò=15
+Device: cpu
+==================================================
+    Epoch 10/100, Loss: 0.330093
+    Epoch 20/100, Loss: 0.380395
+    Epoch 30/100, Loss: 0.427114
+    Epoch 40/100, Loss: 0.465713
+    Epoch 50/100, Loss: 0.427744
+    Epoch 60/100, Loss: 0.072956
+    Epoch 70/100, Loss: 0.087634
+    Epoch 80/100, Loss: 0.071936
+    Epoch 90/100, Loss: 0.069739
+    Epoch 100/100, Loss: 0.070076
